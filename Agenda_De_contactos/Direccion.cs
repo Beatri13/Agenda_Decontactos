@@ -19,6 +19,7 @@ public class Class1
             Colonia = colonia;
             Departamento = departamento;
         }
+ 
 
     }
 }

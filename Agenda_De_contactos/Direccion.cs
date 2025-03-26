@@ -16,6 +16,7 @@
             Colonia = colonia;
             Ciudad = ciudad;
             Departamento = departamento;
+
         }
     }
 
